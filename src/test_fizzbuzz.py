@@ -1,7 +1,7 @@
 import pytest
 from fizzbuzz import Fizzbuzz
 
-def describe_multiples_3():
+def describe_multiples_of_3():
 
     def test_returns_fizz_with_3():
         fizzbuzz = Fizzbuzz()
@@ -11,7 +11,7 @@ def describe_multiples_3():
         fizzbuzz = Fizzbuzz()
         assert fizzbuzz.play(6) == 'Fizz'
 
-def describe_multiples_5():
+def describe_multiples_of_5():
 
     def test_returns_buzz_with_5():
         fizzbuzz = Fizzbuzz()
@@ -21,7 +21,7 @@ def describe_multiples_5():
         fizzbuzz = Fizzbuzz()
         assert fizzbuzz.play(10) == 'Buzz'
 
-def describe_multiples_15():
+def describe_multiples_of_15():
 
     def test_returns_fizzbuzz_with_15():
         fizzbuzz = Fizzbuzz()

@@ -1,11 +1,20 @@
 class Fizzbuzz(object):
 
     def play(self, number):
-        if number % 15 == 0:
+        if self.divisible_by_15(number):
             return 'FizzBuzz'
-        elif number % 5 == 0:
+        elif self.divisible_by_5(number):
             return 'Buzz'
-        elif number % 3 == 0:
+        elif self.divisible_by_3(number):
             return 'Fizz'
         else:
             return number
+
+    def divisible_by_15(self, number):
+        return (number % 15 == 0)
+
+    def divisible_by_5(self, number):
+        return (number % 5 == 0)
+
+    def divisible_by_3(self, number):
+        return (number % 3 == 0)
