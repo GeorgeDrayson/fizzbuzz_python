@@ -1,3 +1,10 @@
 [
-  "src/test_fizzbuzz.py::test_returns_fizz_with_3"
+  "src/test_fizzbuzz.py::describe_normal_numbers::test_returns_4_with_4", 
+  "src/test_fizzbuzz.py::describe_normal_numbers::test_returns_7_with_7", 
+  "src/test_fizzbuzz.py::describe_multiples_15::test_returns_fizzbuzz_with_15", 
+  "src/test_fizzbuzz.py::describe_multiples_15::test_returns_fizzbuzz_with_30", 
+  "src/test_fizzbuzz.py::describe_multiples_5::test_returns_buzz_with_5", 
+  "src/test_fizzbuzz.py::describe_multiples_5::test_returns_buzz_with_10", 
+  "src/test_fizzbuzz.py::describe_multiples_3::test_returns_fizz_with_3", 
+  "src/test_fizzbuzz.py::describe_multiples_3::test_returns_fizz_with_6"
 ]
