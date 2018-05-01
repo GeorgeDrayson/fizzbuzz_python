@@ -1,4 +1,6 @@
-import pytest
+import sys
+sys.path.insert(0, '/Users/georgedrayson/Projects/fizzbuzz_python/lib')
+
 from fizzbuzz import Fizzbuzz
 
 def describe_multiples_of_3():
