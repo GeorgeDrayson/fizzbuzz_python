@@ -1,15 +1,15 @@
 [
-  "src/test_fizzbuzz.py::describe_multiples_of_5::test_returns_buzz_with_5", 
   "src/test_fizzbuzz.py::describe_is_divisible_by::test_returns_true", 
   "src/test_fizzbuzz.py::describe_is_divisible_by::test_returns_false", 
   "src/test_fizzbuzz.py::describe_one_to_100::test_returns_1_to_100", 
-  "src/test_fizzbuzz.py::describe_multiples_of_3::test_returns_fizz_with_3", 
   "src/test_fizzbuzz.py::describe_is_divisible_by_5::test_returns_true", 
   "src/test_fizzbuzz.py::describe_is_divisible_by_5::test_returns_false", 
-  "src/test_fizzbuzz.py::describe_normal_numbers::test_returns_4_with_4", 
-  "src/test_fizzbuzz.py::describe_multiples_of_15::test_returns_fizzbuzz_with_15", 
   "src/test_fizzbuzz.py::describe_is_divisible_by_15::test_returns_true", 
   "src/test_fizzbuzz.py::describe_is_divisible_by_15::test_returns_false", 
+  "src/test_fizzbuzz.py::describe_play::describe_multiples_of_5::test_returns_buzz_with_5", 
+  "src/test_fizzbuzz.py::describe_play::describe_normal_numbers::test_returns_4_with_4", 
+  "src/test_fizzbuzz.py::describe_play::describe_multiples_of_15::test_returns_fizzbuzz_with_15", 
+  "src/test_fizzbuzz.py::describe_play::describe_multiples_of_3::test_returns_fizz_with_3", 
   "src/test_fizzbuzz.py::describe_is_divisible_by_3::test_returns_true", 
   "src/test_fizzbuzz.py::describe_is_divisible_by_3::test_returns_false"
 ]

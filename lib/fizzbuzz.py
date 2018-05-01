@@ -1,4 +1,4 @@
-class Fizzbuzz(object):
+class Fizzbuzz:
 
     def play(self, number):
         if self.is_divisible_by_15(number):
